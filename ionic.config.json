@@ -1,5 +1,7 @@
 {
   "name": "webview",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
